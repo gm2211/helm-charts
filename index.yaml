@@ -3,9 +3,9 @@ entries:
   neo4j:
   - apiVersion: v1
     appVersion: 4.0.3
-    created: "2020-04-30T21:45:08.644559-04:00"
+    created: "2020-04-30T22:56:49.415232-04:00"
     description: Neo4j is the world's leading graph database
-    digest: e46251faa51b668e858f953923396840cc3f78c9cf5d27885ef91794c0b0478d
+    digest: 8fb7fc8e997f60c25a4c5e3723f60568d9bdc9db9e4d78ad19bac94f40d7cdae
     home: https://www.neo4j.com
     icon: http://info.neo4j.com/rs/773-GON-065/images/neo4j_logo.png
     maintainers:
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://gm2211.github.io/helm-charts/neo4j-3.0.0.tgz
     version: 3.0.0
-generated: "2020-04-30T21:45:08.641563-04:00"
+generated: "2020-04-30T22:56:49.413823-04:00"
